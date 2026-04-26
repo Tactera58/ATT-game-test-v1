@@ -1,0 +1,6 @@
+CompileFlags:
+  Add:
+    - "-Wno-everything"
+Diagnostics:
+  UnusedIncludes: None
+  MissingIncludes: None
