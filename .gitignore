@@ -1,0 +1,41 @@
+# Unreal Engine generated — never commit these
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.user
+*.VC.db
+*.opendb
+
+# Xcode
+*.xcworkspace
+*.xcodeproj
+xcuserdata/
+
+# Rider
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Git LFS (track these as pointers, not raw files)
+*.uasset
+*.umap
+*.png
+*.jpg
+*.wav
+*.mp3
+*.fbx
+*.obj
+
+# Never commit API keys or secrets
+.env
+*.secret
